@@ -33,7 +33,7 @@ but if the server refresh is matched with the tool loop you should certainly win
 
 ## Step 1 — Open the Auction House
 
-Launch Forza Horizon 6 and navigate to the Auction House menu.
+Launch Forza Horizon 6 and navigate to the Auction House menu at the festival site.
 
 <img width="3840" height="2160" alt="Step 1" src="https://github.com/user-attachments/assets/48c8c343-598e-4e03-b41e-04cb29083fa9" />
 
@@ -42,8 +42,9 @@ Launch Forza Horizon 6 and navigate to the Auction House menu.
 ## Step 2 — Configure Search
 
 Enter the "Search Auctions" menu and Set your desired:
--Make
--Model
+
+- Make
+- Model
 
 <img width="3840" height="2160" alt="Step 2" src="https://github.com/user-attachments/assets/d883f86b-8230-4877-ab68-d7a8efc64b9b" />
 
@@ -52,7 +53,7 @@ Enter the "Search Auctions" menu and Set your desired:
 
 ## Step 3 — Return to Auction Menu
 
-Back out so your screen looks similar to below.
+Go back to the AH menu.
 
 <img width="3840" height="2160" alt="Step 1" src="https://github.com/user-attachments/assets/a756319c-e93c-4137-8766-7b1d98a8b67b" />
 
@@ -60,9 +61,9 @@ Back out so your screen looks similar to below.
 
 ## Step 4 — Launch the Sniper
 
-Open the sniper EXE and immediately click back into FH6.
+Launch FH6 Auction Sniper and immediately click back into FH6 (you have 5 seconds to do so).
 
-Move your mouse somewhere safe where it cannot click FH6 UI buttons accidentally.
+Move your mouse somewhere safe (ideally right above the logo in the bottom right) where it cannot click FH6 UI buttons accidentally.
 
 -Note - This tool reproduces keyboard clicks, once you see the screen saying attempting buyout, you need to click the icon in the bottom right (circled in red) to close the tool. Otherwise, it will
 get all wonky in the menus and possibly buy a random car in the aution house.
