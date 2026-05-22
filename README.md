@@ -23,8 +23,8 @@ but if the server refresh is matched with the tool loop you should certainly win
 - Fullscreen
 - Focused on FH6 window while running
 - Wired ethernet connection
-- Disable moving background (display settings)
-- Use Festival Site, not your house
+- Disable moving background (in-game display settings)
+- Use the Festival Site, not your home or estate
 
 ---
 
