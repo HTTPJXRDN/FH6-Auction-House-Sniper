@@ -36,7 +36,7 @@ Launch Forza Horizon 6 and navigate to the Auction House menu.
 
 ---
 
-## Step 3 — Configure Search
+## Step 2 — Configure Search
 
 Enter the "Search Auctions" menu and Set your desired:
 -Make
@@ -47,7 +47,7 @@ Enter the "Search Auctions" menu and Set your desired:
 
 ---
 
-## Step 4 — Return to Auction Menu
+## Step 3 — Return to Auction Menu
 
 Back out so your screen looks similar to below.
 
@@ -55,7 +55,7 @@ Back out so your screen looks similar to below.
 
 ---
 
-## Step 5 — Launch the Sniper
+## Step 4 — Launch the Sniper
 
 Open the sniper EXE and immediately click back into FH6.
 
