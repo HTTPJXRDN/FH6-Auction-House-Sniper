@@ -77,6 +77,7 @@ get all wonky in the menus and possibly buy a random car in the aution house.
 > [!WARNING]
 > This tool may violate Forza Horizon enforcement guidelines.
 > Use at your own risk.
+> REMEMBER, CHEATING IS CHEATING 🥳
 
 ---
 
@@ -101,4 +102,5 @@ Download the latest version from the Releases section.
 
 - Program only works while focused on FH6
 - Do not tab out while running
-- Performance may vary depending on system speed
+- Performance may vary depending on system and internet speed
+- Not 100% win rate due to server timing, but if the server timing is in your favor you will be successful.
