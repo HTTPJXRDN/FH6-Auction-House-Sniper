@@ -23,6 +23,7 @@ but if the server refresh is matched with the tool loop you should certainly win
 - Fullscreen
 - Focused on FH6 window while running
 - Wired ethernet connection
+- SSD recommended (NVMe M.2 best)
 - Disable moving background (in-game display settings)
 - Use the Festival Site, not your home or estate
 
@@ -103,4 +104,5 @@ Download the latest version from the Releases section.
 
 - Program only works while focused on FH6
 - Do not tab out while running
+- HDD and any external drives NOT recommended
 - Performance may vary depending on system and internet speed
