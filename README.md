@@ -106,3 +106,4 @@ Download the latest version from the Releases section.
 - Do not tab out while running
 - HDD and any external drives NOT recommended
 - Performance may vary depending on system and internet speed
+- Wifi, HDDs, external drives, slower internet may cause bidding to happen instead of buyout
