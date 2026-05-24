@@ -26,6 +26,7 @@ but if the server refresh is matched with the tool loop you should certainly win
 - SSD recommended (NVMe M.2 best)
 - Disable moving background (in-game display settings)
 - Use the Festival Site, not your home or estate
+- (optional) you can set your graphics settings to very low and also get into a Peel P50 to try and make things faster, although on my end with Extreme preset at 4K I saw no difference. 
 
 ---
 
